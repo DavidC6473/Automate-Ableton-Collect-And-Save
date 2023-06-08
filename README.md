@@ -26,14 +26,16 @@ pip install pylive
 
 3. In the project folder, locate the `collect_and_save_automation.py` file.
 
-4. Open a terminal or command prompt and navigate to the project folder.
+4. Change `master_folder = '/path/to/master/folder'` to your folder's path.
 
-5. Run the following command to execute the script:
+5. Open a terminal or command prompt and navigate to the project folder.
+
+6. Run the following command to execute the script:
 python collect_and_save_automation.py
 
-6. The script will automatically collect and save all the samples used in the Ableton Live project, ensuring they are stored within the project folder.
+7. The script will automatically collect and save all the samples used in the Ableton Live project, ensuring they are stored within the project folder.
 
-7. Once the script finishes, you can safely move the entire project folder to another computer or storage device without losing any samples.
+8. Once the script finishes, you can safely move the entire project folder to another computer or storage device without losing any samples.
 
 ## Credits
 
